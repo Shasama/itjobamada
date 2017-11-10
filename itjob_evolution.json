@@ -18,6 +18,11 @@
 /themes/default/views/pages/espaceclient/annonce/nouvelle_annonce.php
 /themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
 
+/themes/default/js/limiter_phone.js
+
+/themes/default/css/limiter_phone.css
+/themes/default/css/sweet-alert.min.css
+
 /oc/classes/controller/particulier.php
 /oc/classes/controller/espaceclient/annonce.php
 /oc/classes/controller/ad.php
@@ -26,6 +31,7 @@
 /oc/classes/model/annonce.php
 /oc/classes/model/ad.php
 /oc/classes/model/entreprise.php
+/oc/classes/model/formateur.php
 /oc/classes/model/particulier.php
 
 /oc/classes/other/exception/userannonce.php
