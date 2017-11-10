@@ -4,15 +4,17 @@
 		
 		Liste fichiers
 */
-/themes/default/views/pages/espaceclient/annonce/nouvelle_annonce.php
-/themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
-/themes/default/views/pages/annonce/particulier/single_annonce.php
-/themes/default/views/pages/annonce/single_annonce.php
+
 /themes/default/views/oc-panel/pages/annonce/new_annonce.php
 /themes/default/views/oc-panel/pages/annonce/edit_annonce_pro.php
 /themes/default/views/oc-panel/pages/annonce/edit_annonce_particulier.php
 /themes/default/views/oc-panel/pages/annonce/annonce_index.php
+/themes/default/views/oc-panel/pages/map.php
 /themes/default/views/oc-panel/main.php
+/themes/default/views/pages/annonce/particulier/single_annonce.php
+/themes/default/views/pages/annonce/single_annonce.php
+/themes/default/views/pages/espaceclient/annonce/nouvelle_annonce.php
+/themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
 
 /oc/classes/controller/particulier.php
 /oc/classes/controller/espaceclient/annonce.php
