@@ -9,6 +9,7 @@
 /themes/default/views/oc-panel/pages/annonce/edit_annonce_pro.php
 /themes/default/views/oc-panel/pages/annonce/edit_annonce_particulier.php
 /themes/default/views/oc-panel/pages/annonce/annonce_index.php
+/themes/default/views/oc-panel/pages/annonce/list_utilisateur.php
 /themes/default/views/oc-panel/pages/map.php
 /themes/default/views/oc-panel/main.php
 /themes/default/views/pages/annonce/particulier/single_annonce.php
