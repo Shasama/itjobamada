@@ -21,6 +21,17 @@
 /themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
 
 /themes/default/js/limiter_phone.js
+/themes/default/js/oc-panel/annonce_particulier.js
+/themes/default/js/oc-panel/annonce_pro.js
+/themes/default/js/oc-panel/edit_ad.js
+/themes/default/js/oc-panel/formation.js
+/themes/default/js/oc-panel/infocommerce.js
+/themes/default/js/oc-panel/newsletter.js
+/themes/default/js/oc-panel/revendeurinformatique.js
+/themes/default/js/oc-panel/vendeurmobile.js
+/themes/default/js/oc-panel/widgets.js
+/themes/default/js/oc-panel/offer/offer.js
+/themes/default/js/revendeurinformatique.js
 
 /themes/default/css/limiter_phone.css
 /themes/default/css/sweet-alert.min.css
