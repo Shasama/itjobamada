@@ -44,6 +44,7 @@
 /oc/classes/controller/espaceclient/annonce.php
 /oc/classes/controller/espaceclient/recruteur.php
 /oc/classes/controller/panel/annonces.php
+/oc/classes/auth/controller.php
 
 /oc/classes/model/annonce.php
 /oc/classes/model/ad.php
