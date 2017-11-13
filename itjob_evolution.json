@@ -2,7 +2,7 @@
 		ITJOBMADA
 		Manoa & Fidy 
 		
-		Liste fichiers
+		Liste des fichiers
 */
 
 /themes/default/init.php
@@ -21,6 +21,7 @@
 /themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
 
 /themes/default/js/limiter_phone.js
+/themes/default/js/edit_ad.js
 /themes/default/js/oc-panel/annonce_particulier.js
 /themes/default/js/oc-panel/annonce_pro.js
 /themes/default/js/oc-panel/edit_ad.js
@@ -36,9 +37,12 @@
 /themes/default/css/limiter_phone.css
 /themes/default/css/sweet-alert.min.css
 
-/oc/classes/controller/particulier.php
-/oc/classes/controller/espaceclient/annonce.php
+/oc/classes/auth/controller.php
 /oc/classes/controller/ad.php
+/oc/classes/controller/particulier.php
+/oc/classes/controller/emploi/entreprise.php
+/oc/classes/controller/espaceclient/annonce.php
+/oc/classes/controller/espaceclient/recruteur.php
 /oc/classes/controller/panel/annonces.php
 /oc/classes/auth/controller.php
 
