@@ -22,6 +22,7 @@
 /themes/default/views/pages/emploi/liste-cv.php
 /themes/default/views/pages/espaceclient/annonce/nouvelle_annonce.php
 /themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
+/themes/default/views/pages/emploi/create.php
 
 /themes/default/js/limiter_phone.js
 /themes/default/js/edit_ad.js
@@ -37,6 +38,8 @@
 /themes/default/js/oc-panel/widgets.js
 /themes/default/js/oc-panel/offer/offer.js
 /themes/default/js/revendeurinformatique.js
+/themes/default/js/theme.init.js
+/themes/default/js/inscription.js
 
 /themes/default/css/limiter_phone.css
 /themes/default/css/sweet-alert.min.css
@@ -45,6 +48,7 @@
 /oc/classes/controller/ad.php
 /oc/classes/controller/particulier.php
 /oc/classes/controller/emploi/entreprise.php
+/oc/classes/controller/emploi/emploi.php
 /oc/classes/controller/espaceclient/annonce.php
 /oc/classes/controller/espaceclient/recruteur.php
 /oc/classes/controller/revendeurinformatique.php
@@ -56,9 +60,9 @@
 /oc/classes/model/entreprise.php
 /oc/classes/model/formateur.php
 /oc/classes/model/particulier.php
+/oc/classes/model/demandeur/cv.php
 
 /oc/classes/other/exception/userannonce.php
 
 /oc/common/modules/pagination/views/pagination/pagination.php FOR UPDATE
 
-	
