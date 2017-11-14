@@ -62,12 +62,6 @@
 /oc/classes/model/particulier.php
 /oc/classes/model/demandeur/cv.php
 
-<<<<<<< HEAD
-/oc/classes/other/exception/userannonce.php
-=======
 /oc/classes/other/exception/userannonce.php
 
 /oc/common/modules/pagination/views/pagination/pagination.php FOR UPDATE
-
-	
->>>>>>> update liste (cv-devis-pagination)
