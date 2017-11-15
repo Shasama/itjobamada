@@ -22,6 +22,7 @@
 /themes/default/views/pages/emploi/liste-cv.php
 /themes/default/views/pages/espaceclient/annonce/nouvelle_annonce.php
 /themes/default/views/pages/espaceclient/annonce/detail_ses_annonces.php
+/themes/default/views/pages/espaceclient/annonce/liste_ses_annonces.php
 /themes/default/views/pages/emploi/create.php
 
 /themes/default/js/limiter_phone.js
@@ -40,6 +41,7 @@
 /themes/default/js/revendeurinformatique.js
 /themes/default/js/theme.init.js
 /themes/default/js/inscription.js
+/themes/default/js/backoff.js
 
 /themes/default/css/limiter_phone.css
 /themes/default/css/sweet-alert.min.css
