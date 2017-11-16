@@ -4,3 +4,24 @@
 		
 		Liste des fichiers
 */
+-- MODEL --
+/oc/classes/model/ad.php
+
+-- VIEWS --
+/themes/default/views/oc-panel/pages/annonce/edit_annonce_pro.php
+/themes/default/views/oc-panel/pages/annonce/new_annonce.php
+/themes/default/views/pages/annonce/edit_annonce.php
+/themes/default/views/pages/annonce/single_annonce.php
+/themes/default/views/pages/annonce/particulier/edit_particulier.php
+/themes/default/views/pages/annonce/particulier/single_annonce.php
+
+-- CONTROLLER --
+/oc/classes/controller/ad.php
+/oc/classes/controller/particulier.php
+/oc/classes/controller/panel/annonces.php
+
+-- CSS --
+/themes/default/css/global.css
+
+-- JS --
+/themes/default/js/edit_ad.js
