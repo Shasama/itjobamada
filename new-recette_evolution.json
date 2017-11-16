@@ -19,6 +19,8 @@
 /oc/classes/controller/ad.php
 /oc/classes/controller/particulier.php
 /oc/classes/controller/panel/annonces.php
+/oc/classes/controller/panel/demandeur.php
+/oc/classes/controller/panel/ecole.php
 
 -- CSS --
 /themes/default/css/global.css
